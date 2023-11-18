@@ -1,0 +1,156 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+ 	<VREAndroids.AndroidGeneDef ParentName="VREA_HardwareBase">
+    <defName>rwe_android_FireSpew</defName>
+    <label>Android Flamer</label>
+    <description>Ths android has the ability to, every so often, synthesize a flamable blob, which it can use as a weapon</description>
+    <iconPath>UI/Icons/Genes/Gene_Firespew</iconPath>
+    <marketValueFactor>1.5</marketValueFactor>
+    <abilities>
+      <li>FireSpew</li>
+    </abilities>
+    <descriptionHyperlinks>
+      <AbilityDef>FireSpew</AbilityDef>
+    </descriptionHyperlinks>
+    <biostatMet>-2</biostatMet>
+    <symbolPack>
+      <wholeNameSymbols>
+        <li><symbol>burner</symbol></li>
+        <li><symbol>igniter</symbol></li>
+      </wholeNameSymbols>
+      <prefixSymbols>
+        <li><symbol>fire</symbol></li>
+        <li><symbol>flame</symbol></li>
+        <li><symbol>pyre</symbol></li>
+        <li><symbol>pyro</symbol></li>
+        <li><symbol>spark</symbol></li>
+        <li><symbol>ember</symbol></li>
+        <li><symbol>spew</symbol></li>
+        <li><symbol>burn</symbol></li>
+        <li><symbol>incendi</symbol></li>
+        <li><symbol>cinder</symbol></li>
+        <li><symbol>ash</symbol></li>
+      </prefixSymbols>
+      <suffixSymbols>
+        <li><symbol>light</symbol></li>
+        <li><symbol>burner</symbol></li>
+        <li><symbol>pyro</symbol></li>
+        <li><symbol>ash</symbol></li>
+      </suffixSymbols>
+    </symbolPack>
+</VREAndroids.AndroidGeneTemplateDef>
+
+<VREAndroids.AndroidGeneDef ParentName="VREA_HardwareBase">
+    <defName>rwe_android_FoamSpray</defName>
+    <label>Fire Extingusier</label>
+    <description>These androids can produce a fire-retardant foam, and utilize it as a method to prevent fires</description>
+    <iconPath>UI/Icons/Genes/Gene_FoamSpray</iconPath>
+    <abilities>
+      <li>FoamSpray</li>
+    </abilities>
+    <descriptionHyperlinks>
+      <AbilityDef>FoamSpray</AbilityDef>
+    </descriptionHyperlinks>
+    <biostatMet>-2</biostatMet>
+    <symbolPack>
+      <wholeNameSymbols>
+        <li><symbol>foamer</symbol></li>
+      </wholeNameSymbols>
+      <prefixSymbols>
+        <li><symbol>foam</symbol></li>
+        <li><symbol>spit</symbol></li>
+        <li><symbol>spray</symbol></li>
+        <li><symbol>suds</symbol></li>
+        <li><symbol>cream</symbol></li>
+        <li><symbol>froth</symbol></li>
+      </prefixSymbols>
+      <suffixSymbols>
+        <li><symbol>foamer</symbol></li>
+        <li><symbol>sud</symbol></li>
+      </suffixSymbols>
+    </symbolPack>
+</VREAndroids.AndroidGeneTemplateDef>
+
+<VREAndroids.AndroidGeneDef ParentName="VREA_SubroutineBase">
+    <defName>rwe_android_AnimalWarcall</defName>
+    <label>Animal Assitance</label>
+    <description>These androids are able to form a temporary psycic prescense, followed by a special sound frequency, to make an animall willing to assist them.</description>
+    <iconPath>UI/Icons/Genes/Gene_AnimalWarcall</iconPath>
+    <displayCategory>Ability</displayCategory>
+    <abilities>
+      <li>AnimalWarcall</li>
+    </abilities>
+    <descriptionHyperlinks>
+      <AbilityDef>AnimalWarcall</AbilityDef>
+    </descriptionHyperlinks>
+    <biostatMet>-3</biostatMet>
+    <biostatCpx>1</biostatCpx>
+    <symbolPack>
+      <wholeNameSymbols>
+        <li><symbol>warcaller</symbol></li>
+      </wholeNameSymbols>
+      <prefixSymbols>
+        <li><symbol>war</symbol></li>
+        <li><symbol>animal</symbol></li>
+        <li><symbol>cry</symbol></li>
+      </prefixSymbols>
+      <suffixSymbols>
+        <li><symbol>caller</symbol></li>
+        <li><symbol>crier</symbol></li>
+        <li><symbol>hailer</symbol></li>
+      </suffixSymbols>
+    </symbolPack>
+</VREAndroids.AndroidGeneTemplateDef>
+
+<VREAndroids.AndroidGeneDef ParentName="VREA_HardwareBase">
+    <defName>rwe_android_AcidSpray</defName>
+    <label>Acid Thrower</label>
+    <description>These androids can synthesize acids, and every so often send them out as a deffensive measure</description>
+    <iconPath>UI/Icons/Genes/Gene_AcidSpray</iconPath>
+    <displayCategory>Ability</displayCategory>
+    <marketValueFactor>1.5</marketValueFactor>
+    <abilities>
+      <li>AcidSpray</li>
+    </abilities>
+    <descriptionHyperlinks>
+      <AbilityDef>AcidSpray</AbilityDef>
+    </descriptionHyperlinks>
+    <biostatMet>-2</biostatMet>
+    <symbolPack>
+      <prefixSymbols>
+        <li><symbol>acid</symbol></li>
+        <li><symbol>acer</symbol></li>
+        <li><symbol>acri</symbol></li>
+        <li><symbol>oxo</symbol></li>
+      </prefixSymbols>
+      <suffixSymbols>
+        <li><symbol>sprayer</symbol></li>
+        <li><symbol>spitter</symbol></li>
+      </suffixSymbols>
+    </symbolPack>
+</VREAndroids.AndroidGeneTemplateDef>
+
+<VREAndroids.AndroidGeneDef ParentName="VREA_HardwareBase">
+    <defName>rwe_android_Resurrect</defName>
+    <label>Resurrect</label>
+    <description>these androids have the ability to repair damaged limbs and organs, effectivly bringing the dead back to life. However, it can cause issues, and re-generating the nanites takes ages.</description>
+    <iconPath>UI/Icons/Genes/Gene_Resurrect</iconPath>
+    <marketValueFactor>1.5</marketValueFactor>
+    <abilities>
+      <li>Android_Resurrect</li>
+    </abilities>
+    <descriptionHyperlinks>
+      <AbilityDef>Android_Resurrect</AbilityDef>
+    </descriptionHyperlinks>
+    <biostatCpx>4</biostatCpx>
+    <symbolPack>
+      <wholeNameSymbols>
+        <li><symbol>resurrector</symbol></li>
+      </wholeNameSymbols>
+      <prefixSymbols>
+        <li><symbol>life</symbol></li>
+      </prefixSymbols>
+    </symbolPack>
+</VREAndroids.AndroidGeneTemplateDef>
+
+</Defs>
