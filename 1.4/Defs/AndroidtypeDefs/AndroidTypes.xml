@@ -9,6 +9,7 @@
 			<li>VREA_ZeroWaste</li>
 			<li>VREA_SelfRecharge</li>
 			<li>VREA_NeutroSynthesis</li>
+		</genes>
 		<iconPath>UI/XenotypeIcons/Androidtype_AmIRobot</iconPath>
 	</XenotypeDef>
 </Defs>
