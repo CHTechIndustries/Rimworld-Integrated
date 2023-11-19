@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+
+	<VREAndroids.AndroidGeneDef ParentName="RWE_android_UltraHardwareBase">
+		<defName>RWE_VanoPower</defName>
+		<label>Vanometric Power</label>
+		<description>By replacing the reactor with a vanometric generator, the neeed for energy can be nullified.</description>
+		<iconPath>UI/Icons/Genes/Hardware/Gene_Power</iconPath>
+		<displayOrderInCategory>1</displayOrderInCategory>
+		<canGenerateInGeneSet>false</canGenerateInGeneSet>
+		<biostatCpx>25</biostatCpx>
+		<biostatMet>5</biostatMet>
+		<isCoreComponent>true</isCoreComponent>
+		<disablesNeeds>
+			<li>VREA_ReactorPower</li>
+		</disablesNeeds>
+		<exclusionTags>
+			<li>AndroidPowerMode</li>
+			<li>Waste</li>
+		</exclusionTags>
+		<prerequisite>VREA_Power</prerequisite>
+		<statFactors>
+			<MoveSpeed>1.1</MoveSpeed>
+			<WorkSpeedGlobal>1.15</WorkSpeedGlobal>
+		</statFactors>
+	</VREAndroids.AndroidGeneDef>
+	<VREAndroids.AndroidGeneDef ParentName="RWE_android_UltraHardwareBase">
+		<defName>RWE_SelfFormat</defName>
+		<label>Self Format</label>
+		<description>By having the android constantly re-format itself, the need for formating effectivly disappears!</description>
+		<iconPath>UI/Icons/Genes/Hardware/Gene_MemoryProcessing</iconPath>
+		<displayOrderInCategory>2</displayOrderInCategory>
+		<canGenerateInGeneSet>false</canGenerateInGeneSet>
+		<biostatCpx>25</biostatCpx>
+		<biostatMet>-3</biostatMet>
+		<isCoreComponent>true</isCoreComponent>
+		<disablesNeeds>
+			<li>VREA_MemorySpace</li>
+		</disablesNeeds>
+		<exclusionTags>
+			<li>AndroidAwakeningProtocols</li>
+			<li>AndroidRAM</li>
+		</exclusionTags>
+		<prerequisite>VREA_MemoryProcessing</prerequisite>
+	</VREAndroids.AndroidGeneDef>
+</Defs>

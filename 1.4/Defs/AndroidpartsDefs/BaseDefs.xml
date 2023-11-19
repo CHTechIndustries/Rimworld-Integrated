@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+ 	<GeneCategoryDef>
+		<defName>rwe_androidUltra</defName>
+		<label>Ultra-Hardware</label>
+		<displayPriorityInXenotype>2</displayPriorityInXenotype>
+	</GeneCategoryDef>
+
+	<VREAndroids.AndroidGeneDef Name="RWE_android_UltraHardwareBase" ParentName="VREA_HardwareBase" Abstract="True">
+		<displayCategory>rwe_androidUltra</displayCategory>
+		<modExtensions>
+			<li Class="VanillaGenesExpanded.GeneExtension">
+				<backgroundPathXenogenes>UI/Icons/Genes/GeneBackground_Hardware</backgroundPathXenogenes>
+				<backgroundPathEndogenes>UI/Icons/Genes/GeneBackground_Hardware</backgroundPathEndogenes>
+			</li>
+		</modExtensions>
+	</VREAndroids.AndroidGeneDef>
+</Defs>
