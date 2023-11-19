@@ -1,0 +1,13 @@
+Thanks to: SmashPhill for some help on discord and making the mod "xml patch helper", linked here: https://steamcommunity.com/sharedfiles/filedetails/?id=2810681278
+
+Thanks to: Aelena for providing lots of examples and help on the discord, as well as some very interesting and fun tangents!
+
+Thanks to: NC, for a Restarter mod, that makes re-freshing things much easier! linked here: https://steamcommunity.com/sharedfiles/filedetails/?id=2876905899
+
+Thanks to: Palidin (and the entire RimPy team), for making RimPy. A very important mod, that I used to help troubleshoot and go between mod lists! https://steamcommunity.com/sharedfiles/filedetails/?id=1847679158
+
+Thanks to: Gegegeb for Custom Xenotype Exporter Tool, which made creating the xenotypes much easier! It's here: https://steamcommunity.com/sharedfiles/filedetails/?id=3008208560
+
+Thanks to Jaxe and Epicguru, for updating Publisher Plus to 1.4, it's here https://steamcommunity.com/sharedfiles/filedetails/?id=2871749116
+       The original is by Jaxe, and is here: https://steamcommunity.com/sharedfiles/filedetails/?id=1510554297
+and, of course, thanks to Ludeon for Rimworld!
