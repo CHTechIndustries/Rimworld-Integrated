@@ -27,6 +27,11 @@ P.S. I am working on 2 parts. One of them is adding new features to this, and th
 		</li>
 
 		<li>
+			<packageId>m00nl1ght.unofficialupdates.hugslogpublisher</packageId>
+			<displayName>Log Publisher from HugsLib</displayName>
+			<steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=2873415404</steamWorkshopUrl>
+		</li>
+		<li>
 			<packageId>OskarPotocki.VanillaFactionsExpanded.Core</packageId>
 			<displayName>Vanilla Expanded Framework</displayName>
 			<steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=2023507013</steamWorkshopUrl>
@@ -185,6 +190,7 @@ P.S. I am working on 2 parts. One of them is adding new features to this, and th
 		</li>
 	</modDependencies>
 	<loadAfter>
+		<li>m00nl1ght.unofficialupdates.hugslogpublisher</li>
 	</loadAfter>
 	<loadBefore>
 		<li>co.uk.epicguru.whatsthatmod</li>
