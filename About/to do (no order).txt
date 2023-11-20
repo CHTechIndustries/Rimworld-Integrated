@@ -1,0 +1,1 @@
+Add own bases to the android genes, so I don't have to manually change core component and category on a per-gene basis, as well as isolating my genes somewhat
