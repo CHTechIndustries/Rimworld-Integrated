@@ -6,7 +6,7 @@
 		<description>Ths android has the ability to, every so often, synthesize a flamable blob, which it can use as a weapon</description>
 		<iconPath>UI/Icons/Genes/Gene_Firespew</iconPath>
 		<marketValueFactor>1.5</marketValueFactor>
-		<abilities>
+	<abilities>
 		<li>FireSpew</li>
 	</abilities>
 	<descriptionHyperlinks>
@@ -38,7 +38,7 @@
         <li><symbol>ash</symbol></li>
       </suffixSymbols>
     </symbolPack>
-</VREAndroids.AndroidGeneTemplateDef>
+</VREAndroids.AndroidGeneDef>
 
 <VREAndroids.AndroidGeneDef ParentName="VREA_HardwareBase">
     <defName>rwe_android_FoamSpray</defName>
@@ -99,7 +99,7 @@
         <li><symbol>hailer</symbol></li>
       </suffixSymbols>
     </symbolPack>
-</VREAndroids.AndroidGeneTemplateDef>
+</VREAndroids.AndroidGeneDef>
 
 <VREAndroids.AndroidGeneDef ParentName="VREA_HardwareBase">
     <defName>rwe_android_AcidSpray</defName>
@@ -126,6 +126,6 @@
         <li><symbol>spitter</symbol></li>
       </suffixSymbols>
     </symbolPack>
-</VREAndroids.AndroidGeneTemplateDef>
+</VREAndroids.AndroidGeneDef>
 
 </Defs>
