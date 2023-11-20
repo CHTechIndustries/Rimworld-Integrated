@@ -1,7 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Defs>
-
-	<VREAndroids.AndroidGeneDef ParentName="RWE_android_UltraHardwareBase">
+	<VREAndroids.AndroidGeneDef ParentName="VREA_HardwareBase">
 		<defName>RWE_VanoPower</defName>
 		<label>Vanometric Power</label>
 		<description>By replacing the reactor with a vanometric generator, the neeed for energy can be nullified.</description>
@@ -10,30 +9,28 @@
 		<canGenerateInGeneSet>false</canGenerateInGeneSet>
 		<biostatCpx>25</biostatCpx>
 		<biostatMet>5</biostatMet>
-		<isCoreComponent>true</isCoreComponent>
 		<disablesNeeds>
 			<li>VREA_ReactorPower</li>
 		</disablesNeeds>
-		<exclusionTags>
-			<li>AndroidPowerMode</li>
-			<li>Waste</li>
-		</exclusionTags>
-		<prerequisite>VREA_Power</prerequisite>
 		<statFactors>
 			<MoveSpeed>1.1</MoveSpeed>
 			<WorkSpeedGlobal>1.15</WorkSpeedGlobal>
 		</statFactors>
+		<exclusionTags>
+			<li>Waste</li>
+			<li>Reactors</li>
+			<li>AndroidPowerMode</li>
+		</exclusionTags>
+		<isCoreComponent>false</isCoreComponent>
 	</VREAndroids.AndroidGeneDef>
-	<VREAndroids.AndroidGeneDef ParentName="RWE_android_UltraHardwareBase">
+	<VREAndroids.AndroidGeneDef ParentName="VREA_HardwareBase">
 		<defName>RWE_SelfFormat</defName>
-		<label>Self Format</label>
-		<description>By having the android constantly re-format itself, the need for formating effectivly disappears!</description>
+		<label>Self Formating</label>
+		<description>By preforming a constant, minor reformating, the need to enter a reformating phase becomes a null issue</description>
 		<iconPath>UI/Icons/Genes/Hardware/Gene_MemoryProcessing</iconPath>
 		<displayOrderInCategory>2</displayOrderInCategory>
-		<canGenerateInGeneSet>false</canGenerateInGeneSet>
+		<biostatMet>-10</biostatMet>
 		<biostatCpx>25</biostatCpx>
-		<biostatMet>-3</biostatMet>
-		<isCoreComponent>true</isCoreComponent>
 		<disablesNeeds>
 			<li>VREA_MemorySpace</li>
 		</disablesNeeds>
@@ -41,6 +38,6 @@
 			<li>AndroidAwakeningProtocols</li>
 			<li>AndroidRAM</li>
 		</exclusionTags>
-		<prerequisite>VREA_MemoryProcessing</prerequisite>
+		<isCoreComponent>false</isCoreComponent>
 	</VREAndroids.AndroidGeneDef>
 </Defs>
