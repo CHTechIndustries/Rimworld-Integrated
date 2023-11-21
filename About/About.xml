@@ -1,15 +1,21 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
-	<name>Rimworld Expanded (1.x)</name>
+	<name>Rimworld Integrated (ALPHA): A Whole New Game</name>
 	<author>CTH2004</author>
-	<packageId>cth.rwe</packageId>
+	<packageId>cth.RimWorldIntegrated</packageId>
 	<supportedVersions>
 		<li>1.4</li>
 	</supportedVersions>
 	<description>
-Ever wanted more Vanilla Expanded xenotypes? More VE scenarios? More VE content? Well, here you are!
+NOTICE: THIS REQUIRES A MOD THAT IS CURRENTLY NOT ON THE STEAM WORKSHOP. IT IS HERE: https://github.com/SonicTHI/SaveOurShip2Experimental
+if you need help downloading non-steam mods, you can ask the wonderful people on the rimworld discord, or at the Save our Ship 2 Discord. (Note to self: add links)
 
-P.S. I am working on 2 parts. One of them is adding new features to this, and the other (which might take a long time, especially as each new feature added makes this step harder) is making a complete re-design. That one will have less "hard requirments" (meaning it won't work without them). For instance, instead of requiring ideology, a feature won't appear [i]unless[/i] you have ideology. As so many features of this mod is interconnected, that requires a lot more work, and therefore a redesign. But, I wanted to get my ideas at least working, so...
+A "simple" mod that will integrate many popular mods, both by adding content, and patching stuff! To allow the most in-depth integrations, this mod currently must use all the (main) requirments. Only the most basic of additions is an optional requirment.
+
+If anyone has any idea how I could make such an intricate mergeing web, and have it have very few dependencies, do tell! But, as many of the mergeings add 1 thing that bridges multiple mods...
+
+P.S. for the non-steam mods, look at GitUpdator, it will make updateing that mod a whole lot easier! ( https://steamcommunity.com/sharedfiles/filedetails/?id=2790904507 )
+P.P.S some of the mods do have incompatibilities, but they are (after testing) mostly just strange things, like drone strikes in space. Once SoS is more stable, and info on wether said patch will be made is existant, then, from there, I will look at if I need to make a patch. Untill then, just debug-mode out geysers, and imagine the drones are space ships.
 	</description>
 
 	<modDependencies>
@@ -187,6 +193,17 @@ P.S. I am working on 2 parts. One of them is adding new features to this, and th
 			<packageId>sarg.alphamemes</packageId>
 			<displayName>Alpha Memes</displayName>
 			<steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=2661356814</steamWorkshopUrl>
+		</li>
+
+		<li>
+			<packageId>kentington.saveourship2</packageId>
+			<displayName>Save Our Ship 2</displayName>
+			<downloadUrl>https://github.com/SonicTHI/SaveOurShip2Experimental</downloadUrl>
+		</li>
+		<li>
+			<packageId>hrg164hjo.vfefuelpipenet.sos2</packageId>
+			<displayName>Fuel Pipenet for SOS2</displayName>
+			<steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=3066648800</steamWorkshopUrl>
 		</li>
 	</modDependencies>
 	<loadAfter>
