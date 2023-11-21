@@ -15,7 +15,8 @@ A "simple" mod that will integrate many popular mods, both by adding content, an
 If anyone has any idea how I could make such an intricate mergeing web, and have it have very few dependencies, do tell! But, as many of the mergeings add 1 thing that bridges multiple mods...
 
 P.S. for the non-steam mods, look at GitUpdator, it will make updateing that mod a whole lot easier! ( https://steamcommunity.com/sharedfiles/filedetails/?id=2790904507 )
-P.P.S some of the mods do have incompatibilities, but they are (after testing) mostly just strange things, like drone strikes in space. Once SoS is more stable, and info on wether said patch will be made is existant, then, from there, I will look at if I need to make a patch. Untill then, just debug-mode out geysers, and imagine the drones are space ships.
+
+P.P.S some of the mods do have incompatibilities, but they are (after testing) mostly just strange things, like drone strikes in space. Once SoS is on steam, and info on wether such a patch will be built in is more extant/ non-iffy (not at all because I don't want to deal with it right now), I will look into making a patch if necessary. Untill then, just debug-mode out geysers, and imagine the drones are space ships.
 	</description>
 
 	<modDependencies>
