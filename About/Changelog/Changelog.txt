@@ -3,3 +3,10 @@
 
 0.0.2- 22/11/2023
 	Added link to the folder with all links: https://drive.google.com/drive/folders/17W31dHYpdEOISV22GKUj4Fy8HWRZvpLs?usp=sharing
+
+0.0.3- 22/11/2023
+	Removed changelog.md as it was redundent
+	Made a note to somehow automate these changelogs
+	Removed non-necessary/ redundant shortcuts
+	Tested Excell-based changelog
+	Made Shortcut to Excel-based Changelog (not in main changelog folder, will be moved if this is a valid method)
