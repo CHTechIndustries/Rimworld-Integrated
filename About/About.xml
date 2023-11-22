@@ -10,13 +10,18 @@
 NOTICE: THIS REQUIRES A MOD THAT IS CURRENTLY NOT ON THE STEAM WORKSHOP. IT IS HERE: https://github.com/SonicTHI/SaveOurShip2Experimental
 if you need help downloading non-steam mods, you can ask the wonderful people on the rimworld discord, or at the Save our Ship 2 Discord. (Note to self: add links)
 
-A "simple" mod that will integrate many popular mods, both by adding content, and patching stuff! To allow the most in-depth integrations, this mod currently must use all the (main) requirments. Only the most basic of additions is an optional requirment.
+This is a "simple" mod that will do multiple things: 
+1. Add neat items that work well together
+2. add some well-integrated features to smaller mods. These are the few mods that are optional requirments, not necessary.
+3. integrate many neat mods, both by adding content that "bridges" them, removing duplicate content, and patching away errors! However, to make such intricate merges, many features rely on multiple of these mods, and making it more modular would prevent such in-depth integration. So, the cost of all thise intertwined features is almost all the compatible mods are 100% necessary.
 
-If anyone has any idea how I could make such an intricate mergeing web, and have it have very few dependencies, do tell! But, as many of the mergeings add 1 thing that bridges multiple mods...
+If anyone has any idea how I could make such an intricate mergeing web, and have it have less dependencies, do tell! But, as many of the mergeings add 1 thing that bridges multiple mods...
 
 P.S. for the non-steam mods, look at GitUpdator, it will make updateing that mod a whole lot easier! ( https://steamcommunity.com/sharedfiles/filedetails/?id=2790904507 )
 
-P.P.S some of the mods do have incompatibilities, but they are (after testing) mostly just strange things, like drone strikes in space. Once SoS is on steam, and info on wether such a patch will be built in is more extant/ non-iffy (not at all because I don't want to deal with it right now), I will look into making a patch if necessary. Untill then, just debug-mode out geysers, and imagine the drones are space ships.
+P.P.S. some of the mods do have incompatibilities, but they are (after testing) mostly just strange things, like drone strikes in space. Once I'm better with coding, I will see if I can patch those. I will then put them in this mod and on Save our Ships github, and if they add said patch, remove it from this mod. Elsewise, I'll keep it here. Untill then, just imagine they are asteroids (for terrain spawning), space ships (for drones), and "subspace fissures" (for geysers)
+               And, remember, dev mode is there, and you can always re-load if your ship is damaged on-spawn. I won't tell (:
+P.P.P.S. Part of me delaying the patches is not at all because I'm lazy (;
 	</description>
 
 	<modDependencies>
@@ -214,4 +219,7 @@ P.P.S some of the mods do have incompatibilities, but they are (after testing) m
 		<li>co.uk.epicguru.whatsthatmod</li>
 		<li>edb.preparecarefully</li>
 	</loadBefore>
+	<incompatibleWith>
+		<li>ceteam.combatextended</li>
+	</incompatibleWith>
 </ModMetaData>
