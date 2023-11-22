@@ -1,2 +1,5 @@
 0.0.1- 22/11/2023
 	Initial Upload
+
+0.0.2- 22/11/2023
+	Added link to the folder with all links: https://drive.google.com/drive/folders/17W31dHYpdEOISV22GKUj4Fy8HWRZvpLs?usp=sharing
