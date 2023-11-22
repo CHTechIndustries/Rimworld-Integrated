@@ -14,6 +14,7 @@ This is a "simple" mod that will do multiple things:
 1. Add neat items that work well together
 2. add some well-integrated features to smaller mods. These are the few mods that are optional requirments, not necessary.
 3. integrate many neat mods, both by adding content that "bridges" them, removing duplicate content, and patching away errors! However, to make such intricate merges, many features rely on multiple of these mods, and making it more modular would prevent such in-depth integration. So, the cost of all thise intertwined features is almost all the compatible mods are 100% necessary.
+            Some of them (like Genetic Natural Focus ( https://steamcommunity.com/sharedfiles/filedetails/?id=2885843634 ), are "temporary requirments", where I am using them right now, but one day will no longer need that mod. Untill then it's 100% necessary, but eventually won't be.)
 
 If anyone has any idea how I could make such an intricate mergeing web, and have it have less dependencies, do tell! But, as many of the mergeings add 1 thing that bridges multiple mods...
 
@@ -22,6 +23,10 @@ P.S. for the non-steam mods, look at GitUpdator, it will make updateing that mod
 P.P.S. some of the mods do have incompatibilities, but they are (after testing) mostly just strange things, like drone strikes in space. Once I'm better with coding, I will see if I can patch those. I will then put them in this mod and on Save our Ships github, and if they add said patch, remove it from this mod. Elsewise, I'll keep it here. Untill then, just imagine they are asteroids (for terrain spawning), space ships (for drones), and "subspace fissures" (for geysers)
                And, remember, dev mode is there, and you can always re-load if your ship is damaged on-spawn. I won't tell (:
 P.P.P.S. Part of me delaying the patches is not at all because I'm lazy (;
+
+FAQ
+Q: CE Compatible?
+A: Uh... sure. Might have "unintented features" that [i]won't[/i] be removed on my end, but, you do you and all!
 	</description>
 
 	<modDependencies>
@@ -299,7 +304,11 @@ P.P.P.S. Part of me delaying the patches is not at all because I'm lazy (;
 			<displayName>Biotech Capacitor Genes - "Balanced"</displayName>
 			<steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=2883414707</steamWorkshopUrl>
 		</li>
-
+		<li>
+			<packageId>danielwedemeyer.geneticnaturalfocus</packageId>
+			<displayName>Genetic Natural Focus</displayName>
+			<steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=2885843634</steamWorkshopUrl>
+		</li>
 
 	</modDependencies>
 	<loadAfter>
@@ -312,7 +321,4 @@ P.P.P.S. Part of me delaying the patches is not at all because I'm lazy (;
 		<li>co.uk.epicguru.whatsthatmod</li>
 		<li>edb.preparecarefully</li>
 	</loadBefore>
-	<incompatibleWith>
-		<li>ceteam.combatextended</li>
-	</incompatibleWith>
 </ModMetaData>
