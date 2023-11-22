@@ -1,2 +1,2 @@
-# Rimworld-Expanded
- A large mod to add new features to rimworld, as well as some rimworld mods
+# Rimworld-Integrated
+ A large mod adding new features to rimworld, as well as (hopefully) semelesly integrateing mods into a seemless whole!
