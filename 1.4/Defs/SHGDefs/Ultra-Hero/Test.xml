@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Def>
+	<GeneDef ParentName="CTH_SHG_UltraHero_base">
+		<label>Test</label>
+	</GeneDef>
+</Def>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Def>
+	<GeneDef Name="CTH_SHG_PsionistBase" Abstract="True">
+		<displayCategory>CTH_Error</displayCategory>
+		<prerequisite>SHG_Archetypes_Psionist</prerequisite>
+	</GeneDef>
+</Def>

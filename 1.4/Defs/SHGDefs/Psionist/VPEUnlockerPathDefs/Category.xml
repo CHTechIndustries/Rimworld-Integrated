@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+    <GeneCategoryDef>
+        <defName>CTH_SHG_PsionUnlock</defName>
+        <label>Psionic-Unlockers</label>
+        <displayPriorityInXenotype>980</displayPriorityInXenotype>
+    </GeneCategoryDef>
+</Defs>

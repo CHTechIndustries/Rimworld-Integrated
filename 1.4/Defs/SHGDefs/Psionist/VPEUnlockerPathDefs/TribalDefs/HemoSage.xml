@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Def>
+	<GeneDef ParentName="CTH_SHG_HemoUnblocked_base">
+		<defName>CTH_SHG_Hemosage</defName>
+		<label>Hemosage</label>
+		<description>\n\nAny number of Superhero Psionic paths can be taken at the same time. The only limiting factor is metabolic efficiency.</description>
+		<iconPath></iconPath>
+	</GeneDef>
+
+	<GeneDef ParentName="CTH_SHG_PsionUnblockerPath_Base">
+		<defName>CTH_SHG_HemoUnblocker</defName>
+		<label>Hemo Ublocker</label>
+		<description>These Psions have the neural and biological hardware to be able to use hemogen-based psycasts. \n This gene was based off of Hemogenic. But, they quickly relized that you could maintain acess to Hemogen-Based psycasts just by using the hemogenic trait. With some work, the hemogen would re-fill itself. And, then they could add other special abilities! So, it quickly went out of usage, only seeing production for a few decades. It is still used some, but for much more specialty cases. \n\n Any number of Superhero Psionic paths can be taken at the same time. The only limiting factor is metabolic efficiency.</description>
+		<iconPath></iconPath>
+		<displayOrderInCategory>5</displayOrderInCategory>
+		<geneClass>Gene_Hemogen</geneClass>
+		<resourceGizmoType>GeneGizmo_ResourceHemogen</resourceGizmoType>
+		<resourceLabel>hemogen</resourceLabel>
+		<showGizmoOnWorldView>true</showGizmoOnWorldView>
+		<showGizmoWhenDrafted>true</showGizmoWhenDrafted>
+		<resourceDescription>A reserve of biological strength which can be gained and spent in a variety of ways.\n\nHemogen can be increased by bloodfeeding from a human or consuming hemogen packs. You can obtain hemogen packs using the 'extract hemogen pack' medical operation on a non-hemogenic human.\n\nIf hemogen reaches zero, {PAWN_nameDef} will become very unhappy.</resourceDescription>
+		<resourceLossPerDay>-1.5</resourceLossPerDay>
+	</GeneDef>
+</Def>
