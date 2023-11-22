@@ -7,7 +7,11 @@
         <li>ludeon.rimworld.royalty</li>
         <li>ludeon.rimworld.ideology</li>
         <li>ludeon.rimworld.biotech</li>
+        <li>redmattis.betterprerequisites</li>
         <li>oskarpotocki.vanillafactionsexpanded.core</li>
+        <li>vanillaracesexpanded.genie</li>
+        <li>vanillaracesexpanded.highmate</li>
+        <li>morebiotechstylegenes.mod</li>
         <li>vanillaracesexpanded.android</li>
         <li>sarg.alphagenes</li>
         <li>oskarpotocki.vfe.insectoid</li>
@@ -18,10 +22,21 @@
         <li>sarg.alphamechs</li>
         <li>vanillaexpanded.vmemese</li>
         <li>sarg.alphamemes</li>
+        <li>petre27.biotechbalancedcapacitorgenes</li>
+        <li>sov.homelander</li>
+        <li>superherogenesbase.mod</li>
+        <li>ebsg.aio</li>
+        <li>ebsg.archite</li>
         <li>hrg164hjo.vfefuelpipenet.sos2</li>
+        <li>honorableorgans.mod</li>
+        <li>moretheistgods.mod</li>
         <li>m00nl1ght.unofficialupdates.hugslogpublisher</li>
+        <li>morebiotechstylexenotypes.mod</li>
         <li>murmur.walllight</li>
         <li>kentington.saveourship2</li>
+        <li>sniperspine.mod</li>
+        <li>superherogenes.expensivebase</li>
+        <li>superherogenes.villains</li>
         <li>vanillaexpanded.vchemfuele</li>
         <li>vanillaexpanded.vfea</li>
         <li>oskarpotocki.vfe.empire</li>
@@ -32,16 +47,17 @@
         <li>oskarpotocki.vfe.tribals</li>
         <li>oskarpotocki.vfe.vikings</li>
         <li>vanillaexpanded.vnutriente</li>
+        <li>vanillaexpanded.vpe.hemosage</li>
+        <li>vanillaexpanded.vpe.puppeteer</li>
         <li>vanillaracesexpanded.archon</li>
         <li>vanillaracesexpanded.customicons</li>
         <li>vanillaracesexpanded.fungoid</li>
-        <li>vanillaracesexpanded.genie</li>
-        <li>vanillaracesexpanded.highmate</li>
         <li>vanillaracesexpanded.hussar</li>
         <li>vanillaracesexpanded.phytokin</li>
         <li>vanillaracesexpanded.sanguophage</li>
         <li>vanillaracesexpanded.saurid</li>
         <li>vanillaracesexpanded.waster</li>
+        <li>winglessflight.gene</li>
         <li>cth.rimworldintegrated</li>
     </activeMods>
     <knownExpansions>
