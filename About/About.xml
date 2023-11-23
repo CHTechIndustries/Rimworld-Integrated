@@ -6,8 +6,7 @@
 	<supportedVersions>
 		<li>1.4</li>
 	</supportedVersions>
-	<description>
-NOTICE: THIS REQUIRES A MOD THAT IS CURRENTLY NOT ON THE STEAM WORKSHOP. IT IS HERE: https://github.com/SonicTHI/SaveOurShip2Experimental
+	<description>NOTICE: THIS REQUIRES A MOD THAT IS CURRENTLY NOT ON THE STEAM WORKSHOP. IT IS HERE: https://github.com/SonicTHI/SaveOurShip2Experimental
 if you need help downloading non-steam mods, you can ask the wonderful people on the rimworld discord, or at the Save our Ship 2 Discord. (Note to self: add links)
 
 Also, there are very few pieces of artwork, and those that [i]are[/i] there are not that good. You have been warned. (Remember, this is an alpha)
@@ -15,7 +14,7 @@ Also, there are very few pieces of artwork, and those that [i]are[/i] there are 
 This is a "simple" mod that will do multiple things: 
 1. Add neat items that work well together
 2. add some well-integrated features to smaller mods. These are the few mods that are optional requirments, not necessary.
-3. integrate many neat mods, both by adding content that "bridges" them, removing duplicate content, and patching away errors! However, to make such intricate merges, many features rely on multiple of these mods, and making it more modular would prevent such in-depth integration. So, the cost of all thise intertwined features is almost all the compatible mods are 100% necessary.
+3. integrate many neat mods, both by adding content that "bridges" them, removing duplicate content, and patching away errors! However, to make such intricate merges, many features rely on multiple of these mods, and making it more modular would prevent such in-depth integration. So, the cost of all thise intertwined features is almost all the compatible mods are 100% necessary. Also, all the gizmos added by these mods make it hard to use them, meaning you might want to consider looking into Scrollable Gizmos by 2blockdude (Here: https://steamcommunity.com/sharedfiles/filedetails/?id=2838035829 )
             Some of them (like Genetic Natural Focus ( https://steamcommunity.com/sharedfiles/filedetails/?id=2885843634 ), are "temporary requirments", where I am using them right now, but one day will no longer need that mod. Untill then it's 100% necessary, but eventually won't be.)
 
 If anyone has any idea how I could make such an intricate mergeing web, and have it have less dependencies, do tell! But, as many of the mergeings add 1 thing that bridges multiple mods...
@@ -317,10 +316,29 @@ A: Uh... sure. Might have "unintented features" that [i]won't[/i] be removed on 
 			<steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=2883414707</steamWorkshopUrl>
 		</li>
 		<li>
+			<packageId>amch.needbaroverflow</packageId>
+			<displayName>Need Bar Overflow</displayName>
+			<steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=2566316158</steamWorkshopUrl>
+		</li>
+		<li>
+			<packageId>paragon.hanul.unlimitedarmor</packageId>
+			<displayName>UnLimitedArmor</displayName>
+			<steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=1695493009</steamWorkshopUrl>
+		</li>
+		<li>
+			<packageId>paragon.hanul.unlimitedarmor</packageId>
+			<displayName>UnLimitedArmor</displayName>
+			<steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=1695493009</steamWorkshopUrl>
+		</li>
+
+~~~TEMPORARY REQUIRMENTS (untill I'm better with coding/ have help/ both)~~~
+		<li>
 			<packageId>danielwedemeyer.geneticnaturalfocus</packageId>
 			<displayName>Genetic Natural Focus</displayName>
 			<steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=2885843634</steamWorkshopUrl>
 		</li>
+
+
 
 	</modDependencies>
 	<loadAfter>
