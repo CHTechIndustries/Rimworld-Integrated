@@ -1,5 +1,5 @@
 0.0.1- 22/11/2023
-	Initial Upload
+	Initial Changelog Upload (see commits for any changes before this)
 
 0.0.2- 22/11/2023
 	Added link to the folder with all links: https://drive.google.com/drive/folders/17W31dHYpdEOISV22GKUj4Fy8HWRZvpLs?usp=sharing
@@ -10,3 +10,7 @@
 	Removed non-necessary/ redundant shortcuts
 	Tested Excell-based changelog
 	Made Shortcut to Excel-based Changelog (not in main changelog folder, will be moved if this is a valid method)
+
+0.0.4- 22/11/2023
+	Improved the wording on the first changelog entry (0.0.1)
+	Moved the excell spreadsheet elsewhere, as it seems to be worth looking into, but lower priority so it needen't be with the main stuff
