@@ -1,8 +1,8 @@
 blank_issues_enabled: false
 contact_links:
-  - name: GitHub Community Support
-    url: https://github.com/orgs/community/discussions
-    about: Please ask and answer questions here.
-  - name: GitHub Security Bug Bounty
-    url: https://bounty.github.com/
-    about: Please report security vulnerabilities here.
+  - name: Discord
+    url: 
+    about: Discord is best for more in-depth discussions, so this will link you to the invite
+  - name: Bug Reports/ Suggestions
+    url: 
+    about: if possible, put ideas, bugs, and more on discord server if possible. if not, then use github (but, response time will be slower)
