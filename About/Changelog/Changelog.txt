@@ -38,12 +38,20 @@ Pre-releases (before any releases, and therefore version number, so instead just
 	8. Made some notes
 	9. Added link shortcuts to a folder that isn't shared, to make a note of the links incase needed
 	10. Figured out that the android genes are much more complex, so decided that I will deal with them later (added note, might make a folder name-change)
+11. added issue templates
+12. continuly improved said templates
+13. made it suggest useing discord via a "config.yml"
+14. made a wiki on github, relized i didint have anthy of note yet, so removed it.
 
 6. 24/11/2023
 1. Fixed a date in this file
 2. improved issues file
 3. realized this isnt truly a "version" yet, so removed version numbers
 4. mentioned some things that occured pre-changelog, but relized they arent realy major, so only put some in and called it quits
+5. worked on presets some more
+6. made 2 branches for changelog and preset improvments (respectiy)
+7. tried to make a more "protected" release branch
+8. decided to wait until said branch is needed
 
 
 
