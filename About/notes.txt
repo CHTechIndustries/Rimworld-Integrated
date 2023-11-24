@@ -19,3 +19,7 @@ Androids Here: Users\Username\AppData\LocalLow\Ludeon Studios\RimWorld by Ludeon
 android genes keep breaking for no apparent reason, note to self: figure out why later
 
 make admin-only planned-feature list issue template
+
+figure out pull-request templates
+determine wether to transfer issues and such 100% to discord via links, or what
+figure out why the .github folder is not hidden, even though it should be
