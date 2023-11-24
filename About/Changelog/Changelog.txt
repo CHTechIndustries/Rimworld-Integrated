@@ -1,21 +1,27 @@
-0.0.1- 22/11/2023
+Pre-releases (before any releases, and therefore version number, so instead just an indented list, each new sublist being due to some reason (previously new commits, now dates.
+
+"0." (before I made this file)
+	1. made mod
+	2. made 2 android genes that worked, then didnt, then...
+	3. made expirmental genes for another mod in (weeks ato)
+	4. moved those to this mod
+	5. made another mod (that I plan on moving)
+	6. couldnt get a gene to inherit properties
+	7. realized theres a lot of commits, and made a change log.
+1. 22/11/2023
 	1. Initial Changelog Upload (see commits for any changes before this)
-
-0.0.2- 22/11/2023
+2. 22/11/2023
 	1. Added link to the folder with all links: https://drive.google.com/drive/folders/17W31dHYpdEOISV22GKUj4Fy8HWRZvpLs?usp=sharing
-
-0.0.3- 22/11/2023
+3. 22/11/2023
 	1. Removed changelog.md as it was redundent
 	2. Made a note to somehow automate these changelogs
 	3. Removed non-necessary/ redundant shortcuts
 	4. Tested Excell-based changelog
 	5. Made Shortcut to Excel-based Changelog (not in main changelog folder, will be moved if this is a valid method)
-
-0.0.4- 22/11/2023
+4. 22/11/2023
 	1. Improved the wording on the first changelog entry (0.0.1)
 	2. Moved the excell spreadsheet elsewhere, as it seems to be worth looking into, but lower priority so it needen't be with the main stuff
-
-0.0.5- 23/12/2023
+5. 23/11/2023
 	1. Made it require a couple mods that improve some of the others (Unlimited Armour, Need Bar Overflow), and mentioned a useful mod (Scrollable Gizmos) in the about file
 	2. Slightly improved about file's text
 	3. Made notes of where xenotypes, custom ideologies, and custom androids are stored
@@ -27,4 +33,26 @@
 	8. Made some notes
 	9. Added link shortcuts to a folder that isn't shared, to make a note of the links incase needed
 	10. Figured out that the android genes are much more complex, so decided that I will deal with them later (added note, might make a folder name-change)
+	11. added issue templates
+	12. continuly improved said templates
+	13. made it suggest useing discord via a "config.yml"
+	14. made a wiki on github, relized i didint have anthy of note yet, so removed it.
+6. 24/11/2023
+	1. Fixed a date in this file
+	2. improved issues file
+	3. realized this isnt truly a "version" yet, so removed version numbers
+	4. mentioned some things that occured pre-changelog, but relized they arent realy major, so only put some in and called it quits
+	5. worked on presets some more
+	6. made 2 branches for changelog and preset improvments (respectiy)
+	7. tried to make a more "protected" release branch
+	8. decided to wait until said branch is needed
+	9. made a note about future plan for a templaye
+	10. made that template minus the one planned feature
+	11. Updated Changelog
+	12. Merged Changelog
+	13. Finished templates
+	14. merged templates
 
+
+Offically released as an expirmental alpha. 0.1.0, here we come!
+____________________________________________________________________________
