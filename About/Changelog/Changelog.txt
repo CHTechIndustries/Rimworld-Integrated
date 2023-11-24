@@ -52,8 +52,9 @@ Pre-releases (before any releases, and therefore version number, so instead just
 6. made 2 branches for changelog and preset improvments (respectiy)
 7. tried to make a more "protected" release branch
 8. decided to wait until said branch is needed
+9. made a note about future plan for a templaye
+10. made that template minus the one planned feature
 
 
-
-Offically released as an expirmental alpha. 0.0.1, here we come!
+Offically released as an expirmental alpha. 0.0.4, here we come!
 ____________________________________________________________________________
