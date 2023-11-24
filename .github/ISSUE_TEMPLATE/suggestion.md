@@ -1,6 +1,6 @@
 ---
 name: Suggestion
-about: Suggest an idea for this project
+about: If you don't want to use discord or steam, this is the next best option!
 title: "[Suggestion]:"
 labels: enhancement
 assignees: ''
@@ -9,6 +9,6 @@ assignees: ''
 
 **Suummary**
 
-**Indepth**
+**Indepth Explanation of idea**
 
 **Reasoning**
