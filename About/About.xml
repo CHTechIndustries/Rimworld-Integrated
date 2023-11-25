@@ -260,11 +260,6 @@ A: Uh... sure. Might have "unintented features" that won't be removed on my end,
 			<steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=3002447909</steamWorkshopUrl>
 		</li>
 		<li>
-			<packageId>morebiotechstylexenotypes.mod</packageId>
-			<displayName>More Biotech Style Xenotypes</displayName>
-			<steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=2977454722</steamWorkshopUrl>
-		</li>
-		<li>
 			<packageId>ebsg.archite</packageId>
 			<displayName>Expanded Archite Genes</displayName>
 			<steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=3039936922</steamWorkshopUrl>
@@ -325,9 +320,29 @@ A: Uh... sure. Might have "unintented features" that won't be removed on my end,
 			<steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=1695493009</steamWorkshopUrl>
 		</li>
 		<li>
-			<packageId>paragon.hanul.unlimitedarmor</packageId>
-			<displayName>UnLimitedArmor</displayName>
-			<steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=1695493009</steamWorkshopUrl>
+			<packageId>sarg.alphaanimals</packageId>
+			<displayName>Alpha Animals</displayName>
+			<steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=1541721856</steamWorkshopUrl>
+		</li>
+		<li>
+			<packageId>sarg.alphabiomes</packageId>
+			<displayName>Alpha Biomes</displayName>
+			<steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=1841354677</steamWorkshopUrl>
+		</li>
+		<li>
+			<packageId>biotexpans.core</packageId>
+			<displayName>Biotech Expansion - Core</displayName>
+			<steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=2884018485</steamWorkshopUrl>
+		</li>
+		<li>
+			<packageId>biotexpans.mammalia</packageId>
+			<displayName>Biotech Expansion - Mammalia</displayName>
+			<steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=2878084431</steamWorkshopUrl>
+		</li>
+		<li>
+			<packageId>biotexpans.mythic</packageId>
+			<displayName>Biotech Expansion - Mythic</displayName>
+			<steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=2883216840</steamWorkshopUrl>
 		</li>
 
 ~~~TEMPORARY REQUIRMENTS (untill I'm better with coding/ have help/ both)~~~

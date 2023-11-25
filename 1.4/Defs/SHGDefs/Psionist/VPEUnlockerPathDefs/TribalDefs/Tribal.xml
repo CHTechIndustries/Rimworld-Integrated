@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8" ?>
-<Def>
-	<GeneDef ParentName="CTH_SHG_TribalUnblocked_base">
-		<defName>CTH_SHG_Wildspeaker</defName>
-		<label>Wildspeaker</label>
-		<description>Wildspeakers can easily communicate with life, no matter their childhood!\n\nAny number of Superhero Psionic paths can be taken at the same time. The only limiting factor is metabolic efficiency.</description>
-		<iconPath></iconPath>
-	</GeneDef>
-</Def>

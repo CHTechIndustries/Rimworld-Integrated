@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8" ?>
-<Def>
-	<GeneDef ParentName="CTH_SHG_RoyalUnblocked_base">
-		<defName>CTH_SHG_Pupeteer</defName>
-		<label>Puppeteer</label>
-		<description>Pupetteers are masters of manipulation, able to convince people of anything with ease, and if that doesn't work, use the Pupetteer path, no matter their lifes story!\n\nAny number of Superhero Psionic paths can be taken at the same time. The only limiting factor is metabolic efficiency.</description>
-		<iconPath></iconPath>
-	</GeneDef>
-</Def>
